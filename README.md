@@ -1,2 +1,2 @@
 # Ecological_Analyses_Practice
-Repository to practice the scripts  available on the book "Ecological Analysis in R"
+Repository created to practice the codes and the statistical tests discussed in the book "Ecological Analysis in R"
